@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5bcbe94-c8d7-483f-b859-a86a59c0e267" name="Changes" comment="js">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c5bcbe94-c8d7-483f-b859-a86a59c0e267" name="Changes" comment="js" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +47,7 @@
       <workItem from="1667389528591" duration="6000" />
       <workItem from="1667389562927" duration="129000" />
       <workItem from="1667389938296" duration="16000" />
+      <workItem from="1667389962533" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <created>1667389076869</created>
@@ -71,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667389585726</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="js">
+      <created>1667389983504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667389983504</updated>
+    </task>
+    <task id="LOCAL-00005" summary="js">
+      <created>1667390043837</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667390043837</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +102,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="jsdqw" />
     <MESSAGE value="js" />
     <option name="LAST_COMMIT_MESSAGE" value="js" />
   </component>
