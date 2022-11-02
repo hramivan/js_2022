@@ -41,5 +41,5 @@ let B ='100';
 console.log(typeof B);
 let C = true;
 console.log(typeof C);
-let
+
 
