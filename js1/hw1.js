@@ -35,11 +35,11 @@ console.log(lastName);
 let  person = (`${firstName} ${middleName} ${lastName}`);
 console.log(person);
 
-let A = 100;
+let ab = 100;
 console.log(typeof A);
-let B ='100';
+let bb ='100';
 console.log(typeof B);
-let C = true;
+let cb = true;
 console.log(typeof C);
 
 
