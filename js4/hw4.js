@@ -24,10 +24,11 @@ while (i<20){
 //Масив:
 
 let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
-for (let item of listOfItems) {
-    document.write(`<ul><li>${item}</li></ul>`)
+document.write(`<ul>`)
+ for (let item of listOfItems) {
+    document.write(`<li>${item}</li>`)
 }
-
+document.write(`</ul>`)
 //ШАБЛОН:
 //  <ul>
 //   <li>ITEM OF ARRAY</li>
