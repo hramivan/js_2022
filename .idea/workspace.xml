@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5bcbe94-c8d7-483f-b859-a86a59c0e267" name="Changes" comment="js">
-      <change afterPath="$PROJECT_DIR$/js3/hw3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js4/additional/additional.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js4/additional/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -68,6 +69,15 @@
       <workItem from="1667893125831" duration="522000" />
       <workItem from="1667893661837" duration="9297000" />
       <workItem from="1667923683360" duration="1192000" />
+      <workItem from="1668064470434" duration="14429000" />
+      <workItem from="1668152364139" duration="758000" />
+      <workItem from="1668153144987" duration="201000" />
+      <workItem from="1668153366417" duration="369000" />
+      <workItem from="1668329436901" duration="4175000" />
+      <workItem from="1668454394026" duration="11629000" />
+      <workItem from="1668513440194" duration="1784000" />
+      <workItem from="1668585287696" duration="1414000" />
+      <workItem from="1668604870723" duration="22059000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <created>1667389076869</created>
@@ -132,7 +142,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667473104141</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="js">
+      <created>1668083759400</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668083759400</updated>
+    </task>
+    <task id="LOCAL-00011" summary="js">
+      <created>1668759245354</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668759245354</updated>
+    </task>
+    <task id="LOCAL-00012" summary="js">
+      <created>1668964194273</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668964194273</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
