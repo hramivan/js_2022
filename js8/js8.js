@@ -177,7 +177,7 @@ class Princes{
     }
 }
 let princes= [];
-princes.push(new Princes('Ira',25,38));
+princes.push(new Princes('Ira',40,38));
 princes.push(new Princes('Anna',21,42));
 princes.push(new Princes('Olga',35,38));
 princes.push(new Princes('Marina',40,40));

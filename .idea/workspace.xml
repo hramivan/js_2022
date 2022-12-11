@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5bcbe94-c8d7-483f-b859-a86a59c0e267" name="Changes" comment="js">
-      <change afterPath="$PROJECT_DIR$/js8/js8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js9/hw9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js9/template1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js4/additional/additional.js" beforeDir="false" afterPath="$PROJECT_DIR$/js4/additional/add4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js4/additional/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/js4/additional/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js8/js8.js" beforeDir="false" afterPath="$PROJECT_DIR$/js8/js8.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -32,23 +34,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JavaScript&quot;,
-      &quot;Flow JS&quot;,
-      &quot;PLAIN_TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript",
+      "Flow JS",
+      "PLAIN_TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,7 +90,8 @@
       <workItem from="1669886023172" duration="24087000" />
       <workItem from="1670147323993" duration="1300000" />
       <workItem from="1670306909993" duration="18564000" />
-      <workItem from="1670407211981" duration="3610000" />
+      <workItem from="1670407211981" duration="5660000" />
+      <workItem from="1670486682493" duration="19861000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <created>1667389076869</created>
@@ -201,7 +205,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669206083613</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="js">
+      <created>1670410936672</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670410936672</updated>
+    </task>
+    <task id="LOCAL-00018" summary="js">
+      <created>1670410974316</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1670410974316</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
