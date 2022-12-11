@@ -1,0 +1,16 @@
+.wrap{
+    font-size: 50px;
+    width: 300px;
+    height: 300px;
+    color: #418b00;
+background: darkblue;
+    margin-top: 20px;
+
+    ;
+}
+.table{
+    border: 2px solid black;
+}
+.column{
+    border: 2px solid red;
+}
