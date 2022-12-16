@@ -300,15 +300,15 @@ button.onclick = () => {
             table.append(raw);
 
 
-            for (let j = 0 ; j<columns; j++){
+            for (let j = 0; j < columns; j++) {
                 let column = document.createElement('td');
                 column.classList.add('column');
-                column.innerText=`${word}`;
+                column.innerText = `${word}`;
                 raw.append(column)
 
             }
 
         }
     }
-    generateTable(tr,td,text)
+    generateTable(tr, td, text)
 }
