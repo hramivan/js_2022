@@ -1,0 +1,48 @@
+.box{
+
+    background: gray;
+
+}
+.post{
+    border-radius: 10px;
+    height: 200px;
+    width: 18%;
+    background: silver;
+margin: 5px;
+    justify-content: center;
+
+}
+.posts{
+    display: flex;
+    flex-direction: column;
+
+
+}
+.post1{
+    display: flex;
+margin-top: 50px;
+justify-content: center;
+}
+.post2{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: #FF4500;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+button{
+    width: 90%;
+}
+.button{
+    display: flex;
+    justify-content: center;
+
+}
