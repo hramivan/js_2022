@@ -1,0 +1,27 @@
+.box{
+    display: flex;
+    flex-direction: column;
+  align-items: center;
+
+
+}
+.post{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: antiquewhite;
+}
+.comments{
+    display: flex;
+    background: silver;
+flex-wrap: wrap;
+    justify-content: center;
+}
+.comment{
+    margin: 10px;
+    background: gray;
+    box-sizing: border-box;
+    display: flex;
+    width: 20%;
+   flex-wrap: wrap;
+}
